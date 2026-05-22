@@ -5,6 +5,10 @@
 ## Run
 
 ```bash
+cd \trans_fixer
+```
+
+```bash
 npm install
 ```
 ```bash
